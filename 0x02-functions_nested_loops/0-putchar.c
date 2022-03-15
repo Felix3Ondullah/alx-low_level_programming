@@ -1,12 +1,7 @@
-#include "holberton.h"
+#include "main.h"
 
-/**
-* main - Print the word "Holberton"
-*
-* Return: Always 0 (Success)
-*/
 
-int main(void)
+
 {
 	int i;
 	char p[] = "Holberton";
