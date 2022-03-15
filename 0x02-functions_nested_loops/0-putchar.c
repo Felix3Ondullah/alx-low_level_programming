@@ -1,6 +1,7 @@
 #include "main.h"
 
-int main(void)
+void print_alphabet(void);
+
 {
 	int i;
 	char p[] = "_putchar";
@@ -11,3 +12,4 @@ int main(void)
 		}
 		_putchar('\n');
 	return (0);
+}
