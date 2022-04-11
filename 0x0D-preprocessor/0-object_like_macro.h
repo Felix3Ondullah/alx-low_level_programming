@@ -1,4 +1,3 @@
-es (4 sloc)  116 Bytes
 #ifndef _object_like_macro_h_
 #define _object_like_macro_h_
 
@@ -6,3 +5,6 @@ es (4 sloc)  116 Bytes
 
 
 #endif /* _object_like_macro_h_ */
+~
+~
+
